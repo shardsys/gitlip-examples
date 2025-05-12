@@ -1,3 +1,9 @@
-# gitlip-examples/http-python-hello-world
+# http-python-hello-world
 
-"Hello World" example worker in Python.
+This Gitlip example showcases a simple HTTP endpoint written in Python.
+
+Code:
+![](./worker.py)
+
+Diagram:
+![](./diagram.tldr)

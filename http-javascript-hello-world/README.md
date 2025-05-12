@@ -1,3 +1,9 @@
-# gitlip-examples/http-javascript-hello-world
+# http-javascript-hello-world
 
-"Hello World" example worker in Javascript.
+This Gitlip example showcases a simple HTTP endpoint written in JavaScript.
+
+Code:
+![](./worker.js)
+
+Diagram:
+![](./diagram.tldr)
