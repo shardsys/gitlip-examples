@@ -2,5 +2,7 @@
 
 This Gitlip example shows how to extract HTTP request metadata in Python.
 
-Code:
-![](./worker.py)
+Code: [./worker.py](./worker.py)
+
+Diagram:
+![](./diagram.tldr)
