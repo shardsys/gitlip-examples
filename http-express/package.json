@@ -1,0 +1,9 @@
+{
+  "name": "express-example",
+  "version": "1.0.0",
+  "description": "Express on Cloudflare Workers",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
